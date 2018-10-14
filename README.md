@@ -1,3 +1,4 @@
 # PollsApp
 
-This is a simple web application that manages polls on questions and displays appropriate results.
+Clone this repo
+Run this in a server
